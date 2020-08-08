@@ -7,4 +7,16 @@
   "password": "mahindra"
   } 
   }
+  
+{
+"IsSuccessful": true,
+"Message": "User authentication successful",
+"DealerName": null,
+"DealerZone": "South",
+"DealerArea": "Chengalpattu",
+"DealerLocation": "Kanchipuram",
+"FirstName": "MRV",
+"LastName": "Tractors"
+}
+
 }
