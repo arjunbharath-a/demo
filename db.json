@@ -1,14 +1,13 @@
 {
-  "userauthentication": {
+  "userauthentication_req": {
   "usrinput": {
   "userid": "111aaabbbc",
   "vciid": "111021014949",
   "mobiledeviceid": "4574741c4f92649d",
   "password": "mahindra"
   } 
-  }
-  
-{
+  } 
+"userauthentication_res": {
 "IsSuccessful": true,
 "Message": "User authentication successful",
 "DealerName": null,
