@@ -1,5 +1,5 @@
 {
-  "userauthentication_req": {
+  "userauthentication_req": [
     
   "usrinput": {
   "userid": "111aaabbbc",
@@ -17,8 +17,6 @@
 "dealerlocation": "Kanchipuram",
 "firstname": "MRV",
 "lastname": "Tractors"
-}
-    
-}
-
+}  
+]
 }
