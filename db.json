@@ -1,6 +1,6 @@
 {
-  UserAuthentication{
- UsrInput={
+  "UserAuthentication": {
+  "UsrInput" :{
   "UserID":"111aaabbbc",
   "VCIID":"111021014949",
   "MobileDeviceID":"4574741c4f92649d",
