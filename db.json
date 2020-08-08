@@ -9,14 +9,14 @@
   },
   
 "response": {
-"IsSuccessful": true,
-"Message": "User authentication successful",
-"DealerName": null,
-"DealerZone": "South",
-"DealerArea": "Chengalpattu",
-"DealerLocation": "Kanchipuram",
-"FirstName": "MRV",
-"LastName": "Tractors"
+"issuccessful": true,
+"message": "User authentication successful",
+"dealername": null,
+"dealerzone": "South",
+"dealerarea": "Chengalpattu",
+"dealerlocation": "Kanchipuram",
+"firstname": "MRV",
+"lastname": "Tractors"
 }
 
 }
