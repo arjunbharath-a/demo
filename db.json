@@ -7,7 +7,7 @@
   "password": "mahindra"
   } 
   } 
-"userauthentication_res": {
+"response": {
 "IsSuccessful": true,
 "Message": "User authentication successful",
 "DealerName": null,
